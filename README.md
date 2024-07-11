@@ -1,4 +1,4 @@
-# 🫵 👋 🕵️‍♂️
+# <img src="https://em-content.zobj.net/source/google/387/index-pointing-at-the-viewer_1faf5.png" width="28" height="28" /> <img src="https://em-content.zobj.net/source/google/387/waving-hand_1f44b.png" width="28" height="28" /> <img src="https://em-content.zobj.net/source/google/387/man-detective_1f575-fe0f-200d-2642-fe0f.png" width="28" height="28" />
 
 <h3>my life often involves me yelling at my own code <img src="https://em-content.zobj.net/source/google/387/sparkles_2728.png" width="24" height="24" /> <img src="https://em-content.zobj.net/source/whatsapp/401/disguised-face_1f978.png" width="24" height="24" /></h3>
 
