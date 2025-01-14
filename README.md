@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://github.com/stars/oddmario/lists/web-scraping">🤖 Check my web scraping list out!</a></h2>
+<h2 align="center"><a href="https://github.com/stars/oddmario/lists/web-scraping">🤖 Check my web scraping & bot-prevention list out!</a></h2>
 
 # <img src="https://emoji-cdn.mqrio.dev/🫵?style=google" width="28" height="28" /> <img src="https://emoji-cdn.mqrio.dev/👋?style=google" width="28" height="28" /> <img src="https://emoji-cdn.mqrio.dev/🕵️?style=google" width="28" height="28" />
 
