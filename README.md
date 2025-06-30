@@ -2,7 +2,7 @@
 
 # <img src="https://emoji-cdn.mqrio.dev/🫵?style=google" width="28" height="28" /> <img src="https://emoji-cdn.mqrio.dev/👋?style=google" width="28" height="28" /> <img src="https://emoji-cdn.mqrio.dev/🕵️?style=google" width="28" height="28" />
 
-<h3>my life often involves me yelling at my own code <img src="https://emoji-cdn.mqrio.dev/✨?style=google" width="24" height="24" /> <img src="https://emoji-cdn.mqrio.dev/🥸?style=whatsapp" width="24" height="24" /></h3>
+<h3>my life often involves me yelling at my own code <img src="https://emoji-cdn.mqrio.dev/🥸?style=whatsapp" width="24" height="24" /></h3>
 
 ![wohawoaah](https://github.com/oddmario/oddmario/assets/32080032/3b90e5d6-3f8a-4f64-a025-2e8d38bbeff9)
 
